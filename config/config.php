@@ -24,9 +24,9 @@
 
 $setting = [
     'endpoint'       => 'api.sandbox.paypal.com',
-    'client_id'      => 'AZxwxf0fbbeO_BVnMMzFr8Y8xvHG7xnFk9tMZR9UOxYWffkLFc8tFDSdrSWJAyETXHuDOYc5pQh0WjH5',
-    'secret'         => 'EJyPd6_FX3hRQBR9LF0VQAp_x7DZPkwdrK62QpIRImM2wgD30gXB2e0GXCzXy-8Uu8vbAwPlAH4yaQUt',
-    'business_owner' => 'Leader95-facilitator@list.ru',
+    'client_id'      => '',
+    'secret'         => '',
+    'business_owner' => '',
 ];
 
 return \yii\helpers\ArrayHelper::merge(['config' => [
